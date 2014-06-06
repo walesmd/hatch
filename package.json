@@ -1,0 +1,17 @@
+{
+  "name": "hatch",
+  "version": "0.0.0",
+  "description": "hatch",
+  "author": "Michael Wales (webmaster@michaelwales.com)",
+  "license": "Proprietary",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bower": "^1.3.4"
+  }
+}
